@@ -1,0 +1,4 @@
+Comparing Documents:	doc1.txt and doc3.txt
+Common Words (1):	is
+Unique Words (A ∪ B) (10):	important, a, big, system, data, for, distributed, is, hadoop, analysis
+Jaccard Similarity:	0.10
